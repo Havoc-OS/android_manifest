@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Havoc additions -->
+
+  <project path="art" name="android_art" remote="havoc" /> 
+
+  <project path="bionic" name="android_bionic" remote="havoc" />
+
+  <project path="device/havoc/sepolicy" name="android_device_havoc_sepolicy" remote="havoc" />
+  <project path="device/qcom/sepolicy" name="android_device_qcom_sepolicy" remote="havoc" />
+
+  <project path="external/DUtils" name="android_external_DUtils" remote="havoc" />
+
+  <project path="frameworks/av" name="android_frameworks_av" remote="havoc" />
+  <project path="frameworks/base" name="android_frameworks_base" remote="havoc" />
+  <project path="frameworks/havoc" name="android_frameworks_havoc" remote="havoc" />
+  <project path="frameworks/native" name="android_frameworks_native" remote="havoc" />
+  <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="havoc" />
+
+  <project path="lineage-sdk" name="android_lineage-sdk" remote="havoc" />
+
+  <project path="hardware/interfaces" name="android_hardware_interfaces" remote="havoc" /> 
+
+  <project path="manifest" name="android_manifest" remote="havoc" />
+
+  <project path="packages/apps/DUI" name="android_packages_apps_DUI" remote="havoc" />
+  <project path="packages/apps/HavocOTA" name="android_packages_apps_HavocOTA" remote="havoc" />
+  <project path="packages/apps/HavocSettings" name="android_packages_apps_HavocSettings" remote="havoc" />
+  <project path="packages/apps/LineageParts" name="android_packages_apps_LineageParts" remote="havoc" />
+  <project path="packages/apps/OmniStyle" name="android_packages_apps_OmniStyle" remote="havoc" />
+  <project path="packages/apps/OmniSwitch" name="android_packages_apps_OmniSwitch" remote="havoc" />
+  <project path="packages/apps/PackageInstaller" name="android_packages_apps_PackageInstaller" remote="havoc" />
+  <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="havoc" />
+  <project path="packages/apps/SlimRecents" name="android_packages_apps_SlimRecents"  remote="havoc" />
+
+  <project path="packages/overlays/Accents" name="android_packages_overlays_Accents" remote="havoc" />
+  <project path="packages/overlays/Black" name="android_packages_overlays_Black" remote="havoc" />
+  <project path="packages/overlays/Dark" name="android_packages_overlays_Dark" remote="havoc" />
+
+  <project path="packages/providers/MediaProvider" name="android_packages_providers_MediaProvider" remote="havoc" />
+
+  <project path="packages/services/OmniJaws" name="android_packages_services_OmniJaws" remote="havoc" />
+  <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" remote="havoc" />
+  <project path="packages/services/Telephony" name="android_packages_services_Telephony" remote="havoc" />
+
+  <project path="system/core" name="android_system_core" remote="havoc" />
+  <project path="system/sepolicy" name="android_system_sepolicy" remote="havoc" /> 
+  <project path="system/vold" name="android_system_vold" remote="havoc" /> 
+
+  <project path="vendor/havoc" name="android_vendor_havoc" remote="havoc" />
+
+</manifest>
