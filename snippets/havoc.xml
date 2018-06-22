@@ -33,6 +33,7 @@
   <project path="packages/apps/PackageInstaller" name="android_packages_apps_PackageInstaller" remote="havoc" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="havoc" />
   <project path="packages/apps/SlimRecents" name="android_packages_apps_SlimRecents"  remote="havoc" />
+  <project path="packages/apps/WallpaperPicker" name="android_packages_apps_WallpaperPicker" remote="havoc" />
 
   <project path="packages/overlays/Accents" name="android_packages_overlays_Accents" remote="havoc" />
   <project path="packages/overlays/Black" name="android_packages_overlays_Black" remote="havoc" />
