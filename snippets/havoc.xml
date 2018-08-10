@@ -28,7 +28,8 @@
   <project path="packages/apps/HavocOTA" name="android_packages_apps_HavocOTA" remote="havoc" />
   <project path="packages/apps/HavocSettings" name="android_packages_apps_HavocSettings" remote="havoc" />
   <project path="packages/apps/LineageParts" name="android_packages_apps_LineageParts" remote="havoc" />
-  <project path="packages/apps/OmniSwitch" name="android_packages_apps_OmniSwitch" remote="havoc" />
+  <project path="packages/apps/OmniSwitch" name="omnirom/android_packages_apps_OmniSwitch" remote="github" revision="android-8.1" />
+  <project path="packages/apps/OmniBrain" name="omnirom/android_packages_apps_OmniBrain" remote="github" revision="android-8.1" />
   <project path="packages/apps/PackageInstaller" name="android_packages_apps_PackageInstaller" remote="havoc" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="havoc" />
   <project path="packages/apps/SlimRecents" name="android_packages_apps_SlimRecents"  remote="havoc" />
