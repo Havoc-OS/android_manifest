@@ -37,7 +37,7 @@ Repositories:
 
 Before you continue --> run this in the terminal
 ----------------------------------------
-    repo init -u https://github.com/Havoc-OS/android_manifest.git -b oreo && repo sync -j16
+    repo init -u https://github.com/Havoc-OS/android_manifest.git -b pie && repo sync -j16
 
 
 Building the System
