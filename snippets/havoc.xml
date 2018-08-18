@@ -23,7 +23,7 @@
   <project path="external/tinycompress" name="android_external_tinycompress" remote="havoc" />
 
   <project path="frameworks/av" name="android_frameworks_av" remote="havoc" />
-  <project path="frameworks/base" name="android_frameworks_base" remote="havoc" />
+  <project path="frameworks/base" name="ZeNiXxX/havocFrameworkBase" remote="private" revision="pie" />
   <project path="frameworks/compile/mclinker" name="android_frameworks_compile_mclinker" remote="havoc" />
   <project path="frameworks/opt/net/wifi" name="android_frameworks_opt_net_wifi" remote="havoc" />
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="havoc" />
@@ -37,7 +37,7 @@
   <project path="hardware/interfaces" name="android_hardware_interfaces" remote="havoc" />
   <project path="hardware/qcom/bt" name="android_hardware_qcom_bt" remote="havoc" />
 
-  <project path="packages/apps/HavocSettings" name="android_packages_apps_HavocSettings" remote="havoc" />
+  <project path="packages/apps/HavocSettings" name="ZeNiXxX/havoc_settings_wrack" remote="private" revision="pie" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="havoc" />
   <project path="packages/services/Telephony" name="android_packages_services_Telephony" remote="havoc" />
 
