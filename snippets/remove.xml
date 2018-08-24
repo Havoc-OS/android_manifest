@@ -88,6 +88,9 @@
   <remove-project name="platform/packages/inputmethods/OpenWnn" />
   <remove-project name="platform/packages/apps/Settings" />
 
+  <!-- Provider repos -->
+  <remove-project name="platform/packages/providers/DownloadProvider" />
+
   <!-- Service repos -->
   <remove-project name="platform/packages/services/Telecomm" />
   <remove-project name="platform/packages/services/Telephony" />
