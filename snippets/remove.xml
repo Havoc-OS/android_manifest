@@ -94,6 +94,7 @@
 
   <!-- Provider repos -->
   <remove-project name="platform/packages/providers/DownloadProvider" />
+  <remove-project name="platform/packages/providers/MediaProvider" />
 
   <!-- Service repos -->
   <remove-project name="platform/packages/services/Telecomm" />
