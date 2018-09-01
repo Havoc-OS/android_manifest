@@ -20,6 +20,7 @@
 
   <project path="bootable/recovery" name="android_bootable_recovery" remote="havoc" />
 
+  <project path="external/roboto-fonts" name="android_external_roboto-fonts" remote="havoc" />
   <project path="external/tinycompress" name="android_external_tinycompress" remote="havoc" />
 
   <project path="frameworks/av" name="android_frameworks_av" remote="havoc" />
