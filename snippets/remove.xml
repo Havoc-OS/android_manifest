@@ -62,6 +62,7 @@
   <remove-project name="platform/frameworks/native" />
   <remove-project name="platform/frameworks/opt/net/wifi" />
   <remove-project name="platform/frameworks/opt/telephony" />
+  <remove-project name="platform/frameworks/support" />
 
   <!-- Hardware repos -->
   <remove-project name="platform/hardware/qcom/audio" />
