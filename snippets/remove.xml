@@ -91,6 +91,7 @@
   <remove-project name="platform/packages/apps/SpareParts" />
   <remove-project name="platform/packages/apps/Stk" />
   <remove-project name="platform/packages/apps/Test/connectivity" />
+  <remove-project name="platform/packages/inputmethods/LatinIME" />
   <remove-project name="platform/packages/inputmethods/OpenWnn" />
   <remove-project name="platform/packages/apps/Settings" />
 
