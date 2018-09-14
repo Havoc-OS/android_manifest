@@ -93,12 +93,13 @@
   <remove-project name="platform/packages/apps/PackageInstaller" />
   <remove-project name="platform/packages/apps/Protips" />
   <remove-project name="platform/packages/apps/QuickSearchBox" />
+  <remove-project name="platform/packages/apps/Settings" />
+  <remove-project name="platform/packages/apps/SettingsIntelligence" />
   <remove-project name="platform/packages/apps/SpareParts" />
   <remove-project name="platform/packages/apps/Stk" />
   <remove-project name="platform/packages/apps/Test/connectivity" />
   <remove-project name="platform/packages/inputmethods/LatinIME" />
   <remove-project name="platform/packages/inputmethods/OpenWnn" />
-  <remove-project name="platform/packages/apps/Settings" />
 
   <!-- Provider repos -->
   <remove-project name="platform/packages/providers/DownloadProvider" />
