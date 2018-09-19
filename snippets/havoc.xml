@@ -29,6 +29,7 @@
   <project path="external/ant-wireless/antradio-library" name="android_external_ant-wireless_antradio-library" remote="havoc" />
   <project path="external/ant-wireless/ant_native" name="android_external_ant-wireless_ant_native" remote="havoc" />
   <project path="external/ant-wireless/ant_service" name="android_external_ant-wireless_ant_service" remote="havoc" />
+  <project path="external/expat" name="android_external_expat" remote="havoc" />
   <project path="external/jemalloc" name="android_external_jemalloc" remote="havoc" />
   <project path="external/libpng" name="android_external_libpng" remote="havoc" />
   <project path="external/roboto-fonts" name="android_external_roboto-fonts" remote="havoc" />
