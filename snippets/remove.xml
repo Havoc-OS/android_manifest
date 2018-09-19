@@ -49,6 +49,7 @@
   <remove-project name="platform/prebuilts/build-tools" />
 
   <!-- External repos -->
+  <remove-project name="platform/external/libpng" />
   <remove-project name="platform/external/roboto-fonts" />
   <remove-project name="platform/external/sqlite" />
   <remove-project name="platform/external/tinycompress" />
