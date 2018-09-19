@@ -50,6 +50,7 @@
 
   <!-- External repos -->
   <remove-project name="platform/external/roboto-fonts" />
+  <remove-project name="platform/external/sqlite" />
   <remove-project name="platform/external/tinycompress" />
 
   <!-- System repos -->
