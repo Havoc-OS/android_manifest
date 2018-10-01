@@ -74,6 +74,7 @@
 
   <project path="prebuilts/build-tools" name="android_prebuilts_build-tools" remote="havoc" />
 
+  <project path="system/bt" name="android_system_bt" remote="havoc" />
   <project path="system/core" name="android_system_core" remote="havoc" />
   <project path="system/extras" name="android_system_extras" remote="havoc" />
   <project path="system/sepolicy" name="android_system_sepolicy" remote="havoc" />
