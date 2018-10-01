@@ -78,6 +78,7 @@
   <project path="system/core" name="android_system_core" remote="havoc" />
   <project path="system/extras" name="android_system_extras" remote="havoc" />
   <project path="system/sepolicy" name="android_system_sepolicy" remote="havoc" />
+  <project path="system/vold" name="android_system_vold" remote="havoc" />
 
   <project path="vendor/havoc" name="android_vendor_havoc" remote="havoc" />
   <project path="vendor/qcom/opensource/audio" name="android_vendor_qcom_opensource_audio" remote="havoc" />
