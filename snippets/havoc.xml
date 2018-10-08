@@ -48,6 +48,7 @@
 
   <project path="hardware/interfaces" name="android_hardware_interfaces" remote="havoc" />
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="havoc" />
+  <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="havoc" />
   <project path="hardware/nxp/nfc" name="android_hardware_nxp_nfc" remote="havoc" />
   <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" remote="havoc" />
   <project path="hardware/qcom/bootctrl" name="android_hardware_qcom_bootctrl" remote="havoc" />
