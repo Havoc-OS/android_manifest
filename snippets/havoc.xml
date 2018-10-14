@@ -35,6 +35,7 @@
   <project path="external/json-c" name="android_external_json-c" remote="havoc" />
   <project path="external/libpng" name="android_external_libpng" remote="havoc" />
   <project path="external/ntfs-3g" name="android_external_ntfs-3g" remote="havoc" />
+  <project path="external/perfetto" name="android_external_perfetto" remote="havoc" />
   <project path="external/roboto-fonts" name="android_external_roboto-fonts" remote="havoc" />
   <project path="external/sqlite" name="android_external_sqlite" remote="havoc" />
   <project path="external/tinycompress" name="android_external_tinycompress" remote="havoc" />
