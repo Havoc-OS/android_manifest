@@ -52,6 +52,7 @@
   <remove-project name="platform/external/expat" />
   <remove-project name="platform/external/jemalloc" />
   <remove-project name="platform/external/libpng" />
+  <remove-project name="platform/external/perfetto" />
   <remove-project name="platform/external/roboto-fonts" />
   <remove-project name="platform/external/sqlite" />
   <remove-project name="platform/external/tinycompress" />
