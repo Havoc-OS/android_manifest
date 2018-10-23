@@ -65,6 +65,7 @@
   <remove-project name="platform/external/sqlite" />
   <remove-project name="platform/external/tinycompress" />
   <remove-project name="platform/external/turbine" />
+  <remove-project name="platform/external/vixl" />
   <remove-project name="platform/external/zlib" />
 
   <!-- System repos -->
