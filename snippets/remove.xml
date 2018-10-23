@@ -60,6 +60,7 @@
   <remove-project name="platform/external/libpng" />
   <remove-project name="platform/external/perfetto" />
   <remove-project name="platform/external/roboto-fonts" />
+  <remove-project name="platform/external/skia" />
   <remove-project name="platform/external/skqp" />
   <remove-project name="platform/external/sqlite" />
   <remove-project name="platform/external/tinycompress" />

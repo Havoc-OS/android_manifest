@@ -41,6 +41,7 @@
   <project path="external/ntfs-3g" name="android_external_ntfs-3g" remote="havoc" />
   <project path="external/perfetto" name="android_external_perfetto" remote="havoc" />
   <project path="external/roboto-fonts" name="android_external_roboto-fonts" remote="havoc" />
+  <project path="external/skia" name="android_external_skia" remote="havoc" />
   <project path="external/skqp" name="android_external_skqp" remote="havoc" />
   <project path="external/sqlite" name="android_external_sqlite" remote="havoc" />
   <project path="external/tinycompress" name="android_external_tinycompress" remote="havoc" />
