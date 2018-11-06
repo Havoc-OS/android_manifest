@@ -77,6 +77,7 @@
   <project path="packages/apps/Terminal" name="android_packages_apps_Terminal" remote="havoc" />
   <project path="packages/apps/Updates" name="android_packages_apps_Updates" remote="havoc" />
   <project path="packages/inputmethods/LatinIME" name="android_packages_inputmethods_LatinIME" remote="havoc" />
+  <project path="packages/providers/AmbientPlayHistoryProvider" name="android_packages_providers_AmbientPlayHistoryProvider" remote="havoc" />
   <project path="packages/providers/DownloadProvider" name="android_packages_providers_DownloadProvider" remote="havoc" />
   <project path="packages/providers/MediaProvider" name="android_packages_providers_MediaProvider" remote="havoc" />
   <project path="packages/services/OmniJaws" name="android_packages_services_OmniJaws" remote="havoc" />
