@@ -51,6 +51,7 @@
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="havoc" />
   <project path="frameworks/support" name="android_frameworks_support" remote="havoc" />
 
+  <project path="hardware/havoc/telephony" name="android_hardware_havoc_telephony" remote="havoc" />
   <project path="hardware/interfaces" name="android_hardware_interfaces" remote="havoc" />
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="havoc" />
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="havoc" />
