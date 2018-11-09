@@ -45,6 +45,7 @@
   <project path="frameworks/av" name="android_frameworks_av" remote="havoc" />
   <project path="frameworks/base" name="android_frameworks_base" remote="havoc" />
   <project path="frameworks/compile/mclinker" name="android_frameworks_compile_mclinker" remote="havoc" />
+  <project path="frameworks/havoc" name="android_frameworks_havoc" remote="havoc" />
   <project path="frameworks/native" name="android_frameworks_native" remote="havoc" />
   <project path="frameworks/opt/net/voip" name="android_frameworks_opt_net_voip" remote="havoc" />
   <project path="frameworks/opt/net/wifi" name="android_frameworks_opt_net_wifi" remote="havoc" />
