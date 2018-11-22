@@ -69,6 +69,7 @@
   <project path="hardware/ril-caf" name="android_hardware_qcom_ril" remote="havoc" />
 
   <project path="packages/apps/Bluetooth" name="android_packages_apps_Bluetooth" remote="havoc" />
+  <project path="packages/apps/DeskClock" name="android_packages_apps_DeskClock" remote="havoc" />
   <project path="packages/apps/Dialer" name="android_packages_apps_Dialer" remote="havoc" />
   <project path="packages/apps/DocumentsUI" name="android_packages_apps_DocumentsUI" remote="havoc" />
   <project path="packages/apps/Gallery2" name="android_packages_apps_Gallery2" remote="havoc" />
