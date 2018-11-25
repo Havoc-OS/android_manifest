@@ -59,11 +59,32 @@
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="havoc" />
   <project path="hardware/nxp/nfc" name="android_hardware_nxp_nfc" remote="havoc" />
   <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" remote="havoc" />
+  <project path="hardware/qcom/audio-caf-msm8916" name="android_hardware_qcom_audio" remote="havoc" revision="pie-caf-8916" />
+  <project path="hardware/qcom/audio-caf-msm8952" name="android_hardware_qcom_audio" remote="havoc" revision="pie-caf-8952" />
+  <project path="hardware/qcom/audio-caf-msm8960" name="android_hardware_qcom_audio" remote="havoc" revision="pie-caf-8960" />
+  <project path="hardware/qcom/audio-caf-msm8974" name="android_hardware_qcom_audio" remote="havoc" revision="pie-caf-8974" />
+  <project path="hardware/qcom/audio-caf-msm8994" name="android_hardware_qcom_audio" remote="havoc" revision="pie-caf-8994" />
+  <project path="hardware/qcom/audio-caf-msm8996" name="android_hardware_qcom_audio" remote="havoc" revision="pie-caf-8996" />
+  <project path="hardware/qcom/audio-caf-msm8998" name="android_hardware_qcom_audio" remote="havoc" revision="pie-caf-8998" />
   <project path="hardware/qcom/bootctrl" name="android_hardware_qcom_bootctrl" remote="havoc" />
   <project path="hardware/qcom/bt" name="android_hardware_qcom_bt" remote="havoc" />
   <project path="hardware/qcom/display" name="android_hardware_qcom_display" remote="havoc" />
+  <project path="hardware/qcom/display-caf-msm8916" name="android_hardware_qcom_display" remote="havoc" revision="pie-caf-8916" />
+  <project path="hardware/qcom/display-caf-msm8952" name="android_hardware_qcom_display" remote="havoc" revision="pie-caf-8952" />
+  <project path="hardware/qcom/display-caf-msm8960" name="android_hardware_qcom_display" remote="havoc" revision="pie-caf-8960" />
+  <project path="hardware/qcom/display-caf-msm8974" name="android_hardware_qcom_display" remote="havoc" revision="pie-caf-8974" />
+  <project path="hardware/qcom/display-caf-msm8994" name="android_hardware_qcom_display" remote="havoc" revision="pie-caf-8994" />
+  <project path="hardware/qcom/display-caf-msm8996" name="android_hardware_qcom_display" remote="havoc" revision="pie-caf-8996" />
+  <project path="hardware/qcom/display-caf-msm8998" name="android_hardware_qcom_display" remote="havoc" revision="pie-caf-8998" />
   <project path="hardware/qcom/gps" name="android_hardware_qcom_gps" remote="havoc" />
   <project path="hardware/qcom/media" name="android_hardware_qcom_media" remote="havoc" />
+  <project path="hardware/qcom/media-caf-msm8916" name="android_hardware_qcom_media" remote="havoc" revision="pie-caf-8916" />
+  <project path="hardware/qcom/media-caf-msm8952" name="android_hardware_qcom_media" remote="havoc" revision="pie-caf-8952" />
+  <project path="hardware/qcom/media-caf-msm8960" name="android_hardware_qcom_media" remote="havoc" revision="pie-caf-8960" />
+  <project path="hardware/qcom/media-caf-msm8974" name="android_hardware_qcom_media" remote="havoc" revision="pie-caf-8974" />
+  <project path="hardware/qcom/media-caf-msm8994" name="android_hardware_qcom_media" remote="havoc" revision="pie-caf-8994" />
+  <project path="hardware/qcom/media-caf-msm8996" name="android_hardware_qcom_media" remote="havoc" revision="pie-caf-8996" />
+  <project path="hardware/qcom/media-caf-msm8998" name="android_hardware_qcom_media" remote="havoc" revision="pie-caf-8998" />
   <project path="hardware/qcom/wlan" name="android_hardware_qcom_wlan" remote="havoc" />
   <project path="hardware/ril" name="android_hardware_ril" remote="havoc" />
   <project path="hardware/ril-caf" name="android_hardware_qcom_ril" remote="havoc" />
