@@ -100,6 +100,8 @@
   <project path="packages/apps/PackageInstaller" name="android_packages_apps_PackageInstaller" remote="havoc" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="havoc" />
   <project path="packages/apps/SettingsIntelligence" name="android_packages_apps_SettingsIntelligence" remote="havoc" />
+  <project path="packages/apps/SmartNav" name="android_packages_apps_SmartNav" remote="havoc" />
+  <project path="packages/apps/SmartNavSettings" name="android_packages_apps_SmartNavSettings" remote="havoc" />
   <project path="packages/apps/Terminal" name="android_packages_apps_Terminal" remote="havoc" />
   <project path="packages/apps/Updates" name="android_packages_apps_Updates" remote="havoc" />
   <project path="packages/inputmethods/LatinIME" name="android_packages_inputmethods_LatinIME" remote="havoc" />
