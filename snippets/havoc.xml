@@ -85,6 +85,7 @@
   <project path="hardware/qcom/media-caf-msm8994" name="android_hardware_qcom_media" remote="havoc" revision="pie-caf-8994" />
   <project path="hardware/qcom/media-caf-msm8996" name="android_hardware_qcom_media" remote="havoc" revision="pie-caf-8996" />
   <project path="hardware/qcom/media-caf-msm8998" name="android_hardware_qcom_media" remote="havoc" revision="pie-caf-8998" />
+  <project path="hardware/qcom/power" name="android_hardware_qcom_power" remote="havoc" />
   <project path="hardware/qcom/wlan" name="android_hardware_qcom_wlan" remote="havoc" />
   <project path="hardware/ril" name="android_hardware_ril" remote="havoc" />
   <project path="hardware/ril-caf" name="android_hardware_qcom_ril" remote="havoc" />
