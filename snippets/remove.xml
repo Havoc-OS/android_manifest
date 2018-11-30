@@ -58,6 +58,7 @@
   <remove-project name="platform/external/roboto-fonts" />
   <remove-project name="platform/external/sqlite" />
   <remove-project name="platform/external/tinycompress" />
+  <remove-project name="platform/external/turbine" />
 
   <!-- System repos -->
   <remove-project name="platform/system/bt" />

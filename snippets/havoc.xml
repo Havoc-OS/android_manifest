@@ -42,6 +42,7 @@
   <project path="external/roboto-fonts" name="android_external_roboto-fonts" remote="havoc" />
   <project path="external/sqlite" name="android_external_sqlite" remote="havoc" />
   <project path="external/tinycompress" name="android_external_tinycompress" remote="havoc" />
+  <project path="external/turbine" name="android_external_turbine" remote="havoc" />
 
   <project path="frameworks/av" name="android_frameworks_av" remote="havoc" />
   <project path="frameworks/base" name="android_frameworks_base" remote="havoc" />
