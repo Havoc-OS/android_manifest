@@ -51,6 +51,7 @@
 
   <!-- External repos -->
   <remove-project name="platform/external/expat" />
+  <remove-project name="platform/external/freetype" />
   <remove-project name="platform/external/jemalloc" />
   <remove-project name="platform/external/libpng" />
   <remove-project name="platform/external/perfetto" />

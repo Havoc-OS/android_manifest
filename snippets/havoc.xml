@@ -33,6 +33,7 @@
   <project path="external/ant-wireless/ant_service" name="android_external_ant-wireless_ant_service" remote="havoc" />
   <project path="external/exfat" name="android_external_exfat" remote="havoc" />
   <project path="external/expat" name="android_external_expat" remote="havoc" />
+  <project path="external/freetype" name="android_external_freetype" remote="havoc" />
   <project path="external/jemalloc" name="android_external_jemalloc" remote="havoc" />
   <project path="external/json-c" name="android_external_json-c" remote="havoc" />
   <project path="external/libpng" name="android_external_libpng" remote="havoc" />
