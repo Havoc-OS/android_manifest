@@ -49,6 +49,7 @@
   <remove-project name="platform/bootable/recovery" />
   <remove-project name="platform/libcore" />
   <remove-project name="platform/prebuilts/build-tools" />
+  <remove-project name="platform/prebuilts/go/linux-x86" />
   <remove-project name="platform/prebuilts/r8" />
 
   <!-- External repos -->

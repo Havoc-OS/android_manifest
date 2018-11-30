@@ -120,6 +120,7 @@
   <project path="packages/services/Telephony" name="android_packages_services_Telephony" remote="havoc" />
 
   <project path="prebuilts/build-tools" name="android_prebuilts_build-tools" remote="havoc" />
+  <project path="prebuilts/go/linux-x86" name="android_prebuilts_go_linux-x86" remote="havoc" />
   <project path="prebuilts/r8" name="android_prebuilts_r8" remote="havoc" />
 
   <project path="system/bt" name="android_system_bt" remote="havoc" />
