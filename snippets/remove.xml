@@ -40,13 +40,14 @@
   <remove-project name="device/sample" />
 
   <!-- General repos -->
+  <remove-project name="kernel/tests" />
   <remove-project name="platform/art" />
   <remove-project name="platform/build" />
   <remove-project name="platform/build/kati" />
   <remove-project name="platform/build/soong" />
   <remove-project name="platform/bionic" />
   <remove-project name="platform/bootable/recovery" />
-  <remove-project name="kernel/tests" />
+  <remove-project name="platform/libcore" />
   <remove-project name="platform/prebuilts/build-tools" />
 
   <!-- External repos -->
