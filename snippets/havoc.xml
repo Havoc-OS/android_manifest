@@ -58,6 +58,7 @@
   <project path="frameworks/opt/net/ims" name="android_frameworks_opt_net_ims" remote="havoc" />
   <project path="frameworks/opt/net/voip" name="android_frameworks_opt_net_voip" remote="havoc" />
   <project path="frameworks/opt/net/wifi" name="android_frameworks_opt_net_wifi" remote="havoc" />
+  <project path="frameworks/opt/slimrecent" name="android_frameworks_opt_slimrecent" remote="havoc" />
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="havoc" />
   <project path="frameworks/support" name="android_frameworks_support" remote="havoc" />
 
