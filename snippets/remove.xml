@@ -63,6 +63,7 @@
   <remove-project name="platform/external/f2fs-tools" />
   <remove-project name="platform/external/freetype" />
   <remove-project name="platform/external/gptfdisk" />
+  <remove-project name="platform/external/icu" />
   <remove-project name="platform/external/jemalloc" />
   <remove-project name="platform/external/libjpeg-turbo" />
   <remove-project name="platform/external/libpng" />
@@ -89,6 +90,7 @@
   <remove-project name="platform/system/libhwbinder" />
   <remove-project name="platform/system/netd" />
   <remove-project name="platform/system/sepolicy" />
+  <remove-project name="platform/system/timezone" />
   <remove-project name="platform/system/tools/hidl" />
   <remove-project name="platform/system/vold" />
 
