@@ -94,6 +94,7 @@
   <project path="packages/apps/SmartNav" name="android_packages_apps_SmartNav" remote="havoc" />
   <project path="packages/apps/SmartNavSettings" name="android_packages_apps_SmartNavSettings" remote="havoc" />
   <project path="packages/apps/Terminal" name="android_packages_apps_Terminal" remote="havoc" />
+  <project path="packages/apps/ThermalController" name="android_packages_apps_ThermalController" remote="havoc" />
   <project path="packages/apps/Updates" name="android_packages_apps_Updates" remote="havoc" />
   <project path="packages/inputmethods/LatinIME" name="android_packages_inputmethods_LatinIME" remote="havoc" />
   <project path="packages/providers/DownloadProvider" name="android_packages_providers_DownloadProvider" remote="havoc" />
