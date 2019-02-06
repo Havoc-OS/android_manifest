@@ -95,6 +95,7 @@
   <project path="packages/apps/SettingsIntelligence" name="android_packages_apps_SettingsIntelligence" remote="havoc" />
   <project path="packages/apps/SmartNav" name="android_packages_apps_SmartNav" remote="havoc" />
   <project path="packages/apps/SmartNavSettings" name="android_packages_apps_SmartNavSettings" remote="havoc" />
+  <project path="packages/apps/Stk" name="android_packages_apps_Stk" remote="havoc" />
   <project path="packages/apps/Terminal" name="android_packages_apps_Terminal" remote="havoc" />
   <project path="packages/apps/ThermalController" name="android_packages_apps_ThermalController" remote="havoc" />
   <project path="packages/apps/Updates" name="android_packages_apps_Updates" remote="havoc" />
