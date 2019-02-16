@@ -129,6 +129,6 @@
   <project path="vendor/havoc" name="android_vendor_havoc" remote="havoc" />
   <project path="vendor/qcom/opensource/cryptfs_hw" name="android_vendor_qcom_opensource_cryptfs_hw" remote="havoc" />
   <project path="vendor/support" name="android_vendor_support" remote="havoc" />
-  <project path="vendor/themes" name="android_vendor_themes" remote="shady" />
+  <project path="vendor/themes" name="android_vendor_themes" remote="havoc" />
 
 </manifest>
