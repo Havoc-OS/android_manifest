@@ -39,6 +39,7 @@
   <!-- External -->
   <project path="external/expat" name="android_external_expat" remote="havoc" />
   <project path="external/freetype" name="android_external_freetype" remote="havoc" />
+  <project path="external/google" name="android_external_google" remote="havoc" />
   <project path="external/jemalloc" name="android_external_jemalloc" remote="havoc" />
   <project path="external/libjpeg-turbo" name="android_external_libjpeg-turbo" remote="havoc" />
   <project path="external/libpng" name="android_external_libpng" remote="havoc" />
