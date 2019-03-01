@@ -51,6 +51,7 @@
   <project path="hardware/qcom/audio-caf/msm8994" name="android_hardware_qcom_audio" remote="los" revision="lineage-16.0-caf-8994" />
   <project path="hardware/qcom/audio-caf/msm8996" name="android_hardware_qcom_audio" remote="los" revision="lineage-16.0-caf-8996" />
   <project path="hardware/qcom/audio-caf/msm8998" name="android_hardware_qcom_audio" remote="los" revision="lineage-16.0-caf-8998" />
+  <project path="hardware/qcom/audio-caf/sdm845" name="android_hardware_qcom_audio" remote="los" revision="lineage-16.0-caf-845" />
   <project path="hardware/qcom/bootctrl" name="android_hardware_qcom_bootctrl" remote="los" />
   <project path="hardware/qcom/camera" name="android_hardware_qcom_camera" remote="los" />
   <project path="hardware/qcom/bt" name="android_hardware_qcom_bt" remote="los" />
@@ -62,6 +63,7 @@
   <project path="hardware/qcom/display-caf/msm8994" name="android_hardware_qcom_display" remote="los" revision="lineage-16.0-caf-8994" />
   <project path="hardware/qcom/display-caf/msm8996" name="android_hardware_qcom_display" remote="los" revision="lineage-16.0-caf-8996" />
   <project path="hardware/qcom/display-caf/msm8998" name="android_hardware_qcom_display" remote="los" revision="lineage-16.0-caf-8998" />
+  <project path="hardware/qcom/display-caf/sdm845" name="android_hardware_qcom_display" remote="los" revision="lineage-16.0-caf-845" />
   <project path="hardware/qcom/fm" name="android_hardware_qcom_fm" remote="los" />
   <project path="hardware/qcom/gps" name="android_hardware_qcom_gps" remote="los" />
   <project path="hardware/qcom/keymaster" name="android_hardware_qcom_keymaster" remote="los" />
@@ -71,6 +73,7 @@
   <project path="hardware/qcom/media-caf/msm8994" name="android_hardware_qcom_media" remote="los" revision="lineage-16.0-caf-8994" />
   <project path="hardware/qcom/media-caf/msm8996" name="android_hardware_qcom_media" remote="los" revision="lineage-16.0-caf-8996" />
   <project path="hardware/qcom/media-caf/msm8998" name="android_hardware_qcom_media" remote="los" revision="lineage-16.0-caf-8998" />
+  <project path="hardware/qcom/media-caf/sdm845" name="android_hardware_qcom_media" remote="los" revision="lineage-16.0-caf-845" />
   <project path="hardware/qcom/sdm845/bt" name="android_hardware_qcom_sdm845_bt" remote="los" />
   <project path="hardware/qcom/sdm845/data/ipacfg-mgr" name="android_hardware_qcom_sdm845_data_ipacfg-mgr" remote="los" >
     <linkfile src="os_pickup.mk" dest="hardware/qcom/sdm845/Android.mk" />
