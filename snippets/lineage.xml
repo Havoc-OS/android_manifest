@@ -34,6 +34,7 @@
   <project path="external/openssh" name="android_external_openssh" remote="los" />
   <project path="external/p7zip" name="android_external_p7zip" remote="los" />
   <project path="external/pigz" name="android_external_pigz" remote="los" />
+  <project path="external/proguard" name="android_external_proguard" remote="los" />
   <project path="external/rsync" name="android_external_rsync" remote="los" />
   <project path="external/toybox" name="android_external_toybox" remote="los" />
   <project path="external/unrar" name="android_external_unrar" remote="los" />
