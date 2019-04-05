@@ -61,6 +61,7 @@
   <remove-project name="platform/external/expat" />
   <remove-project name="platform/external/f2fs-tools" />
   <remove-project name="platform/external/freetype" />
+  <remove-project name="platform/external/fsck_msdos" />
   <remove-project name="platform/external/gptfdisk" />
   <remove-project name="platform/external/icu" />
   <remove-project name="platform/external/jemalloc" />
