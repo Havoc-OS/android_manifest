@@ -187,6 +187,7 @@
   <remove-project name="platform/packages/apps/Terminal" />
   <remove-project name="platform/packages/inputmethods/LatinIME" />
   <remove-project name="platform/packages/inputmethods/OpenWnn" />
+  <remove-project name="platform/packages/apps/Camera2" />
 
   <!-- Prebuilt repos -->
   <remove-project name="platform/prebuilts/build-tools" />
