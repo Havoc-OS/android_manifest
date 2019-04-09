@@ -37,8 +37,9 @@ Repositories:
 
 Before you continue --> run this in the terminal
 ----------------------------------------
-    repo init -u https://github.com/Havoc-OS/android_manifest.git -b pie && repo sync -j16
-
+    repo init -u https://github.com/Havoc-OS/android_manifest.git -b pie && repo sync -jX
+    
+Where X is The Number of cores you have 
 
 Building the System
 ---------------
@@ -47,7 +48,7 @@ Please note that if you are building on Mac OS X, you are required to install co
 Initialize the environment with the envsetup.sh script. Note that replacing "source" with a single dot saves a few characters, and the short form is more commonly used in documentation.
 
     . build/envsetup.sh
-    brunch
+    brunch <device codename>
 
 Enter the number of the build you want to start and press enter
 
