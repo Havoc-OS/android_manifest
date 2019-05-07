@@ -8,7 +8,7 @@
            fetch="https://android.googlesource.com/"
            review="https://android-review.googlesource.com/" />
 
-  <default revision="refs/tags/android-9.0.0_r35"
+  <default revision="refs/tags/android-9.0.0_r37"
            remote="aosp"
            sync-j="8"
            sync-c="true" />
