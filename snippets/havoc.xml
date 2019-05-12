@@ -33,6 +33,7 @@
 
   <!-- Device -->
   <project path="device/havoc/sepolicy" name="android_device_havoc_sepolicy" remote="havoc" />
+  <project path="device/qcom/common" name="android_device_qcom_common" remote="havoc" />
   <project path="device/qcom/sepolicy" name="android_device_qcom_sepolicy" remote="havoc" />
   <project path="device/qcom/sepolicy-legacy" name="android_device_qcom_sepolicy-legacy" remote="havoc" />
 
