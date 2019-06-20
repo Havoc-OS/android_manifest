@@ -5,7 +5,7 @@ Havoc-OS
 Getting Started
 ---------------
 To get started with the Havoc-OS sources, you'll need to get
-familiar with [Git and Repo](http://source.android.com/source/version-control.html).
+familiar with [Git and Repo](https://source.android.com/setup/develop).
 
 
 Create the Directories
