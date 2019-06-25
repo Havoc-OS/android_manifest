@@ -239,7 +239,6 @@
   <remove-project name="platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9" />
   <remove-project name="platform/prebuilts/gdb/darwin-x86" />
   <remove-project name="platform/prebuilts/go/darwin-x86" />
-  <remove-project name="platform/prebuilts/go/linux-x86" />
   <remove-project name="platform/prebuilts/maven_repo/google-play-service-client-libraries-3p" />
   <remove-project name="platform/prebuilts/python/darwin-x86/2.7.5" />
   <remove-project name="platform/prebuilts/r8" />

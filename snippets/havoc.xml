@@ -117,7 +117,6 @@
   <!-- Prebuilts -->
   <project path="prebuilts/build-tools" name="android_prebuilts_build-tools" remote="havoc" />
   <project path="prebuilts/clang/host/linux-x86" name="android_prebuilts_clang_host_linux-x86" remote="havoc" />
-  <project path="prebuilts/go/linux-x86" name="android_prebuilts_go_linux-x86" remote="havoc" />
   <project path="prebuilts/r8" name="android_prebuilts_r8" remote="havoc" />
 
   <!-- System -->
