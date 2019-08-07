@@ -38,6 +38,7 @@
   <project path="device/qcom/sepolicy-legacy" name="android_device_qcom_sepolicy-legacy" remote="havoc" />
 
   <!-- External -->
+  <project path="external/e2fsprogs" name="android_external_e2fsprogs" remote="havoc" />
   <project path="external/expat" name="android_external_expat" remote="havoc" />
   <project path="external/freetype" name="android_external_freetype" remote="havoc" />
   <project path="external/google" name="android_external_google" remote="havoc" />
