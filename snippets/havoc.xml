@@ -134,7 +134,6 @@
   <!-- Vendor -->
   <project path="vendor/codeaurora/telephony" name="android_vendor_codeaurora_telephony" remote="havoc" />
   <project path="vendor/havoc" name="android_vendor_havoc" remote="havoc" />
-  <project path="vendor/interfaces" name="android_vendor_interfaces" remote="havoc" />
   <project path="vendor/qcom/opensource/audio" name="android_vendor_qcom_opensource_audio" remote="havoc" />
   <project path="vendor/qcom/opensource/cryptfs_hw" name="android_vendor_qcom_opensource_cryptfs_hw" remote="havoc" />
   <project path="vendor/support" name="android_vendor_support" remote="havoc" />
