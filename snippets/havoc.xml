@@ -43,6 +43,8 @@
   <project path="external/freetype" name="android_external_freetype" remote="havoc" />
   <project path="external/google" name="android_external_google" remote="havoc" />
   <project path="external/jemalloc" name="android_external_jemalloc" remote="havoc" />
+  <project path="external/libcups" name="android_external_libcups" remote="havoc" />
+  <project path="external/libhevc" name="android_external_libhevc" remote="havoc" />
   <project path="external/libjpeg-turbo" name="android_external_libjpeg-turbo" remote="havoc" />
   <project path="external/libpng" name="android_external_libpng" remote="havoc" />
   <project path="external/perfetto" name="android_external_perfetto" remote="havoc" />
@@ -129,6 +131,7 @@
   <project path="system/keymaster" name="android_system_keymaster" remote="havoc" />
   <project path="system/libhwbinder" name="android_system_libhwbinder" remote="havoc" />
   <project path="system/netd" name="android_system_netd" remote="havoc" />
+  <project path="system/nfc" name="android_system_nfc" remote="havoc" />
   <project path="system/sepolicy" name="android_system_sepolicy" remote="havoc" />
   <project path="system/tools/hidl" name="android_system_tools_hidl" remote="havoc" />
   <project path="system/vold" name="android_system_vold" remote="havoc" />
