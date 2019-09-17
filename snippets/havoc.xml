@@ -69,6 +69,7 @@
   <project path="hardware/ril" name="android_hardware_ril" remote="havoc" />
 
   <!-- Packages -->
+  <project path="packages/apps/DocumentsUI" name="android_packages_apps_DocumentsUI" remote="havoc" />
   <project path="packages/apps/Launcher3" name="android_packages_apps_Launcher3" remote="havoc" />
   <project path="packages/apps/Nfc" name="android_packages_apps_Nfc" remote="havoc" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="havoc" />
