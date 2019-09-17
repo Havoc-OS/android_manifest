@@ -49,6 +49,7 @@
 
   <!-- Hardware -->
   <project path="hardware/havoc/interfaces" name="android_hardware_havoc_interfaces" remote="havoc" />
+  <project path="hardware/interfaces" name="android_hardware_interfaces" remote="havoc" />
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="havoc" />
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="havoc" />
   <project path="hardware/nxp/nfc" name="android_hardware_nxp_nfc" remote="havoc" />
