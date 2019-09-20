@@ -107,7 +107,6 @@
   <!-- System -->
   <project path="system/timezone" name="android_system_timezone" remote="los" />
   <project path="system/tools/dtbtool" name="android_system_tools_dtbtool" remote="los" />
-  <project path="system/update_engine" name="android_system_update_engine" remote="los" />
 
   <!-- Vendor -->
   <project path="vendor/nxp/opensource/interfaces/nfc" name="android_vendor_nxp_interfaces_opensource_nfc" remote="los" />

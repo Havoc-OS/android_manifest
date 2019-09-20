@@ -134,6 +134,7 @@
   <project path="system/nfc" name="android_system_nfc" remote="havoc" />
   <project path="system/sepolicy" name="android_system_sepolicy" remote="havoc" />
   <project path="system/tools/hidl" name="android_system_tools_hidl" remote="havoc" />
+  <project path="system/update_engine" name="android_system_update_engine" remote="havoc" />
   <project path="system/vold" name="android_system_vold" remote="havoc" />
 
   <!-- Vendor -->
