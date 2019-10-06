@@ -42,6 +42,7 @@
   <project path="frameworks/av" name="android_frameworks_av" remote="havoc" />
   <project path="frameworks/base" name="android_frameworks_base" remote="havoc" />
   <project path="frameworks/native" name="android_frameworks_native" remote="havoc" />
+  <project path="frameworks/opt/net/wifi" name="android_frameworks_opt_net_wifi" remote="havoc" />
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="havoc" />
 
   <!-- Hardware -->
