@@ -67,6 +67,7 @@
   <project path="prebuilts/tools-extras" name="android_prebuilts_tools-extras" remote="havoc" />
 
   <!-- System -->
+  <project path="system/bt" name="android_system_bt" remote="havoc" />
   <project path="system/core" name="android_system_core" remote="havoc" />
   <project path="system/sepolicy" name="android_system_sepolicy" remote="havoc" />
   <project path="system/update_engine" name="android_system_update_engine" remote="havoc" />
