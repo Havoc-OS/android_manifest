@@ -16,6 +16,7 @@
   <project path="art" name="android_art" remote="havoc" />
   <project path="bionic" name="android_bionic" remote="havoc" />
   <project path="bootable/recovery" name="android_bootable_recovery" remote="havoc" />
+  <project path="platform_testing" name="android_platform_testing" remote="havoc" />
 
   <!-- Build -->
   <project path="build/make" name="android_build" remote="havoc">

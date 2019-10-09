@@ -5,6 +5,7 @@
   <remove-project name="platform/art" />
   <remove-project name="platform/bionic" />
   <remove-project name="platform/bootable/recovery" />
+  <remove-project name="platform/platform_testing" />
   <remove-project name="platform/test/mts" />
   <remove-project name="platform/test/vti/alert" />
   <remove-project name="platform/tools/ndkports" />
