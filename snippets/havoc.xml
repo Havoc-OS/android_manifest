@@ -20,6 +20,7 @@
   <project path="platform_testing" name="android_platform_testing" remote="havoc" />
 
   <!-- Build -->
+  <project path="build/blueprint" name="android_build_blueprint" remote="havoc" />
   <project path="build/make" name="android_build" remote="havoc">
     <copyfile src="core/root.mk" dest="Makefile" />
     <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />

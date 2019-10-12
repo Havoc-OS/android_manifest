@@ -13,6 +13,7 @@
 
   <!-- Build -->
   <remove-project name="platform/build" />
+  <remove-project name="platform/build/blueprint" />
   <remove-project name="platform/build/soong" />
 
   <!-- Device -->
