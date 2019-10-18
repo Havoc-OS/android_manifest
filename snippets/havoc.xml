@@ -46,7 +46,7 @@
   <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" remote="havoc" />
   <project path="packages/services/Telephony" name="android_packages_services_Telephony" remote="havoc" />
 
-  <project path="system/core" name="android_system_core" remote="havoc" />
+  <project path="system/core" name="android_system_core_old" remote="havoc" />
   <project path="system/sepolicy" name="android_system_sepolicy" remote="havoc" /> 
   <project path="system/vold" name="android_system_vold" remote="havoc" /> 
 
