@@ -113,6 +113,7 @@
   <remove-project name="platform/packages/apps/CertInstaller" />
   <remove-project name="platform/packages/apps/DeskClock" />
   <remove-project name="platform/packages/apps/DevCamera" />
+  <remove-project name="platform/packages/apps/Dialer" />
   <remove-project name="platform/packages/apps/DocumentsUI" />
   <remove-project name="platform/packages/apps/Email" />
   <remove-project name="platform/packages/apps/Gallery" />

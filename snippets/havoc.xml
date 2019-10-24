@@ -62,6 +62,7 @@
   <project path="packages/apps/ConfigCenter" name="android_packages_apps_ConfigCenter" remote="havoc" />
   <project path="packages/apps/CustomDoze" name="android_packages_apps_CustomDoze" remote="havoc" />
   <project path="packages/apps/DeskClock" name="android_packages_apps_DeskClock" remote="havoc" />
+  <project path="packages/apps/Dialer" name="android_packages_apps_Dialer" remote="havoc" />
   <project path="packages/apps/DocumentsUI" name="android_packages_apps_DocumentsUI" remote="havoc" />
   <project path="packages/apps/Nfc" name="android_packages_apps_Nfc" remote="havoc" />
   <project path="packages/apps/PackageInstaller" name="android_packages_apps_PackageInstaller" remote="havoc" />
