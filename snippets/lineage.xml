@@ -42,7 +42,7 @@
     <!-- for AOSP sm8150, we override os_pickup.mk -->
     <linkfile src="os_pickup.mk" dest="hardware/qcom/sm8150/Android.mk" />
     <!-- add guards for CAF repositories -->
-    <!-- <linkfile src="os_pickup.mk" dest="hardware/qcom-caf/apq8084/Android.mk" /> -->
+    <linkfile src="os_pickup.mk" dest="hardware/qcom-caf/apq8084/Android.mk" />
     <linkfile src="os_pickup.mk" dest="hardware/qcom-caf/msm8916/Android.mk" />
     <!-- <linkfile src="os_pickup.mk" dest="hardware/qcom-caf/msm8952/Android.mk" /> -->
     <linkfile src="os_pickup.mk" dest="hardware/qcom-caf/msm8960/Android.mk" />
@@ -62,6 +62,9 @@
     <linkfile src="os_pickup.mk" dest="vendor/nxp/opensource/sn100x/Android.mk" />
   </project>
   <project path="hardware/qcom-caf/bt" name="android_hardware_qcom_bt" remote="lineage" revision="lineage-17.0-caf" />
+  <project path="hardware/qcom-caf/apq8084/audio" name="android_hardware_qcom_audio" remote="lineage" revision="lineage-17.0-caf-apq8084" />
+  <project path="hardware/qcom-caf/apq8084/display" name="android_hardware_qcom_display" remote="lineage" revision="lineage-17.0-caf-apq8084" />
+  <project path="hardware/qcom-caf/apq8084/media" name="android_hardware_qcom_media" remote="lineage" revision="lineage-17.0-caf-apq8084" />
   <project path="hardware/qcom-caf/msm8916/audio" name="android_hardware_qcom_audio" remote="lineage" revision="lineage-17.0-caf-msm8916" />
   <project path="hardware/qcom-caf/msm8916/display" name="android_hardware_qcom_display" remote="lineage" revision="lineage-17.0-caf-msm8916" />
   <project path="hardware/qcom-caf/msm8916/media" name="android_hardware_qcom_media" remote="lineage" revision="lineage-17.0-caf-msm8916" />
