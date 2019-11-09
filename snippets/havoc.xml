@@ -91,6 +91,7 @@
 
   <!-- Vendor -->
   <project path="vendor/havoc" name="android_vendor_havoc" remote="havoc" />
+  <project path="vendor/qcom/opensource/power" name="android_vendor_qcom_opensource_power" remote="havoc" />
   <project path="vendor/support" name="android_vendor_support" remote="havoc" />
 
 </manifest>
