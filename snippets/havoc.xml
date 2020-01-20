@@ -92,6 +92,7 @@
   <project path="system/bt" name="android_system_bt" remote="havoc" />
   <project path="system/core" name="android_system_core" remote="havoc" />
   <project path="system/extras" name="android_system_extras" remote="havoc" />
+  <project path="system/hardware/interfaces" name="android_system_hardware_interfaces" remote="havoc" />
   <project path="system/keymaster" name="android_system_keymaster" remote="havoc" />
   <project path="system/netd" name="android_system_netd" remote="havoc" />
   <project path="system/sepolicy" name="android_system_sepolicy" remote="havoc" />
