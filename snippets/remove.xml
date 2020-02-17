@@ -81,6 +81,7 @@
   <remove-project name="platform/external/rapidjson" />
   <remove-project name="platform/external/selinux" />
   <remove-project name="platform/external/tinycompress" />
+  <remove-project name="platform/external/toybox" />
 
   <!-- Frameworks -->
   <remove-project name="platform/frameworks/av" />
