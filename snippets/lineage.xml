@@ -15,6 +15,7 @@
   <project path="external/connectivity" name="android_external_connectivity" remote="lineage" />
   <project path="external/exfat" name="android_external_exfat" remote="lineage" />
   <project path="external/json-c" name="android_external_json-c" remote="lineage" />
+  <project path="external/libhevc" name="android_external_libhevc" remote="lineage" />
   <project path="external/libnfc-nxp" name="android_external_libnfc-nxp" remote="lineage" />
   <project path="external/libtextclassifier" name="android_external_libtextclassifier" remote="lineage" revision="lineage-17.0" />
   <project path="external/ntfs-3g" name="android_external_ntfs-3g" remote="lineage" />
