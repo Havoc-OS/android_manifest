@@ -46,6 +46,7 @@
   <!-- Device -->
   <project path="device/havoc/sepolicy" name="android_device_havoc_sepolicy" remote="havoc" />
   <project path="device/qcom/sepolicy" name="android_device_qcom_sepolicy" remote="havoc" />
+  <project path="device/qcom/sepolicy-legacy" name="android_device_qcom_sepolicy" remote="havoc" revision="ten-legacy" />
   <project path="device/qcom/sepolicy-legacy-um" name="android_device_qcom_sepolicy" remote="havoc" revision="ten-legacy-um" />
 
   <!-- External -->
