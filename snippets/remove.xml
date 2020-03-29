@@ -73,6 +73,7 @@
   <!-- External -->
   <remove-project name="platform/external/ARMComputeLibrary" />
   <remove-project name="platform/external/e2fsprogs" />
+  <remove-project name="platform/external/libcxx" />
   <remove-project name="platform/external/libhevc" />
   <remove-project name="platform/external/libtextclassifier" />
   <remove-project name="platform/external/python/asn1crypto" />
