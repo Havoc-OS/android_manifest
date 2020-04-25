@@ -50,7 +50,6 @@
   <project path="device/qcom/sepolicy-legacy-um" name="android_device_qcom_sepolicy" remote="havoc" revision="ten-legacy-um" />
 
   <!-- External -->
-  <project path="external/motorola/faceunlock" name="android_external_motorola_faceunlock" remote="havoc" />
   <project path="external/skia" name="android_external_skia" remote="havoc" />
   <project path="external/tinycompress" name="android_external_tinycompress" remote="havoc" />
 
