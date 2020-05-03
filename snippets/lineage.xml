@@ -27,6 +27,7 @@
   <project path="external/toybox" name="android_external_toybox" remote="lineage" />
 
   <!-- Hardware -->
+  <project path="hardware/broadcom/fm" name="android_hardware_broadcom_fm" remote="lineage" />
   <project path="hardware/lineage/livedisplay" name="android_hardware_lineage_livedisplay" remote="lineage" />
   <project path="hardware/nxp/nfc" name="android_hardware_nxp_nfc" remote="lineage" />
   <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" remote="lineage" />
