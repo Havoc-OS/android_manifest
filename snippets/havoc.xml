@@ -62,6 +62,7 @@
   <project path="frameworks/opt/net/ims" name="android_frameworks_opt_net_ims" remote="havoc" />
   <project path="frameworks/opt/net/wifi" name="android_frameworks_opt_net_wifi" remote="havoc" />
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="havoc" />
+  <project path="frameworks/opt/timezonepicker" name="android_frameworks_opt_timezonepicker" remote="havoc" />
 
   <!-- Hardware -->
   <project path="hardware/havoc/interfaces" name="android_hardware_havoc_interfaces" remote="havoc" />
