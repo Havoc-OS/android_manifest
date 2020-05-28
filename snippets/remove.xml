@@ -73,6 +73,7 @@
   <remove-project name="platform/external/ARMComputeLibrary" />
   <remove-project name="platform/external/cldr" />
   <remove-project name="platform/external/e2fsprogs" />
+  <remove-project name="platform/external/icu" />
   <remove-project name="platform/external/libcxx" />
   <remove-project name="platform/external/libhevc" />
   <remove-project name="platform/external/libtextclassifier" />
