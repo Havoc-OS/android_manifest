@@ -152,6 +152,7 @@
   <remove-project name="platform/packages/apps/UnifiedEmail" />
   <remove-project name="platform/packages/apps/WallpaperPicker" />
   <remove-project name="platform/packages/apps/WallpaperPicker2" />
+  <remove-project name="platform/packages/inputmethods/LatinIME" />
   <remove-project name="platform/packages/modules/TestModule" />
   <remove-project name="platform/packages/providers/DownloadProvider" />
   <remove-project name="platform/packages/providers/MediaProvider" />
