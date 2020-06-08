@@ -19,7 +19,7 @@
   <project path="external/libcxx" name="android_external_libcxx" remote="lineage" />
   <project path="external/libhevc" name="android_external_libhevc" remote="lineage" />
   <project path="external/libnfc-nxp" name="android_external_libnfc-nxp" remote="lineage" />
-  <project path="external/libtextclassifier" name="android_external_libtextclassifier" remote="lineage" revision="lineage-17.0" />
+  <project path="external/libtextclassifier" name="android_external_libtextclassifier" remote="lineage" />
   <project path="external/mksh" name="android_external_mksh" remote="lineage" />
   <project path="external/ntfs-3g" name="android_external_ntfs-3g" remote="lineage" />
   <project path="external/ppp" name="android_external_ppp" remote="lineage" />
@@ -41,7 +41,7 @@
   <project path="hardware/qcom/gps" name="android_hardware_qcom_gps" remote="lineage" />
   <project path="hardware/qcom/keymaster" name="android_hardware_qcom_keymaster" remote="lineage" />
   <project path="hardware/qcom/media" name="android_hardware_qcom_media" remote="lineage" />
-  <project path="hardware/qcom/wlan" name="android_hardware_qcom_wlan" remote="lineage" revision="lineage-17.0" />
+  <project path="hardware/qcom/wlan" name="android_hardware_qcom_wlan" remote="lineage" />
   <project path="hardware/qcom-caf/common" name="android_hardware_qcom-caf_common" remote="lineage" >
     <!-- add guard for AOSP hardware/qcom dir -->
     <linkfile src="os_pickup_aosp.mk" dest="hardware/qcom/Android.mk" />
