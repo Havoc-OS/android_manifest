@@ -52,6 +52,7 @@
   <!-- External -->
   <project path="external/cldr" name="android_external_cldr" remote="havoc" />
   <project path="external/icu" name="android_external_icu" remote="havoc" />
+  <project path="external/pulse" name="android_external_pulse" remote="havoc" />
   <project path="external/skia" name="android_external_skia" remote="havoc" />
   <project path="external/tinycompress" name="android_external_tinycompress" remote="havoc" />
 
