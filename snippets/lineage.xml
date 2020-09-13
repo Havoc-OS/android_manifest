@@ -24,6 +24,7 @@
   <project path="external/ntfs-3g" name="android_external_ntfs-3g" remote="lineage" />
   <project path="external/ppp" name="android_external_ppp" remote="lineage" />
   <project path="external/selinux" name="android_external_selinux" remote="lineage" />
+  <project path="external/sonivox" name="android_external_sonivox" remote="lineage" />
   <project path="external/toybox" name="android_external_toybox" remote="lineage" />
 
   <!-- Hardware -->
