@@ -1,0 +1,70 @@
+Havoc-OS
+===========
+
+
+Getting Started
+---------------
+To get started with the Havoc-OS sources, you'll need to get
+familiar with [Git and Repo](https://source.android.com/setup/develop).
+
+
+Create the Directories
+----------------------
+
+You will need to set up some directories in your build environment.
+
+To create them run:
+
+```bash
+   mkdir -p ~/bin
+   mkdir -p ~/havoc
+```
+
+Install the Repository
+----------------------
+
+Enter the following to download the "repo" binary and make it executable:
+
+curl http://commondatastorage.googleapis.com/git-repo-downloads/repo > ~/bin/repo && chmod a+x ~/bin/repo
+
+You may need to reboot for these changes to take effect.
+Now enter the following to initialize the repository:
+
+```bash
+   cd ~/havoc
+```
+
+
+To initialize your local repository, use this command:
+------------------------------------------------------
+
+```bash
+   repo init -u https://github.com/Havoc-OS/android_manifest.git -b eleven
+```
+  
+To Sync the source:
+----------------
+
+```bash
+  repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
+```
+
+
+Building the System
+---------------
+
+Please note that if you are building on Mac OS X, you are required to install coreutils from MacPorts before you continue.
+Initialize the environment with the envsetup.sh script. Note that replacing "source" with a single dot saves a few characters, and the short form is more commonly used in documentation.
+
+```bash
+   . build/envsetup.sh
+    brunch
+```
+
+Enter the number of the build you want to start and press enter
+
+
+Applying for Maintainership
+---------------
+
+If you have successfully built for your device and want to apply for maintainership then drop in a message to SKULSHADY on Telegram or XDA.
