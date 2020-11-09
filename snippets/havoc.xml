@@ -50,6 +50,7 @@
   <project path="device/qcom/sepolicy-legacy-um" name="android_device_qcom_sepolicy" remote="havoc" revision="ten-legacy-um" />
 
   <!-- External -->
+  <project path="external/aac" name="android_external_aac" remote="havoc" />
   <project path="external/cldr" name="android_external_cldr" remote="havoc" />
   <project path="external/icu" name="android_external_icu" remote="havoc" />
   <project path="external/pulse" name="android_external_pulse" remote="havoc" />
