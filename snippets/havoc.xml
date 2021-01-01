@@ -44,6 +44,7 @@
 
   <!-- External -->
   <project path="external/boringssl" name="android_external_boringssl" remote="havoc" />
+  <project path="external/cldr" name="android_external_cldr" remote="havoc" />
   <project path="external/e2fsprogs" name="android_external_e2fsprogs" remote="havoc" />
   <project path="external/gptfdisk" name="android_external_gptfdisk" remote="havoc" />
   <project path="external/guice" name="android_external_guice" remote="havoc" />
