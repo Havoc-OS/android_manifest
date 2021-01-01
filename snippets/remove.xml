@@ -89,6 +89,7 @@
   <remove-project name="platform/external/perfetto" />
   <remove-project name="platform/external/tinyalsa" />
   <remove-project name="platform/external/tinycompress" />
+  <remove-project name="platform/external/toybox" />
 
   <!-- Frameworks -->
   <remove-project name="platform/frameworks/av" />
