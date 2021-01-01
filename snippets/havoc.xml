@@ -50,6 +50,7 @@
   <project path="external/mksh" name="android_external_mksh" remote="havoc" />
   <project path="external/openssh" name="android_external_openssh" remote="havoc" />
   <project path="external/perfetto" name="android_external_perfetto" remote="havoc" />
+  <project path="external/pulse" name="android_external_pulse" remote="havoc" />
   <project path="external/tinyalsa" name="android_external_tinyalsa" remote="havoc" />
   <project path="external/tinycompress" name="android_external_tinycompress" remote="havoc" />
 
