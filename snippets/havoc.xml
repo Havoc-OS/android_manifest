@@ -81,6 +81,7 @@
   <project path="hardware/qcom/sdm845/display" name="android_hardware_qcom_sdm845_display" remote="havoc" />
   <project path="hardware/qcom/sm8150/data/ipacfg-mgr" name="android_hardware_qcom_sm8150_data_ipacfg-mgr" remote="havoc" />
   <project path="hardware/qcom/sm8150/display" name="android_hardware_qcom_sm8150_display" remote="havoc" />
+  <project path="hardware/qcom/sm8150/media" name="android_hardware_qcom_sm8150_media" remote="havoc" />
   <project path="hardware/ril" name="android_hardware_ril" remote="havoc" />
 
   <!-- Packages -->
