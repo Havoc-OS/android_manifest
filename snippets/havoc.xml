@@ -122,6 +122,7 @@
   <!-- System -->
   <project path="system/bt" name="android_system_bt" remote="havoc" />
   <project path="system/core" name="android_system_core" remote="havoc" />
+  <project path="system/hardware/interfaces" name="android_system_hardware_interfaces" remote="havoc" />
   <project path="system/incremental_delivery" name="android_system_incremental_delivery" remote="havoc" />
   <project path="system/libufdt" name="android_system_libufdt" remote="havoc" />
   <project path="system/netd" name="android_system_netd" remote="havoc" />
