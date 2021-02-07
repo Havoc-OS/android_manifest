@@ -104,6 +104,7 @@
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="havoc" />
   <project path="packages/apps/SettingsIntelligence" name="android_packages_apps_SettingsIntelligence" remote="havoc" />
   <project path="packages/apps/SimpleDeviceConfig" name="android_packages_apps_SimpleDeviceConfig" remote="havoc" />
+  <project path="packages/apps/Snap" name="android_packages_apps_Snap" remote="havoc" />
   <project path="packages/apps/Terminal" name="android_packages_apps_Terminal" remote="havoc" />
   <project path="packages/apps/ThemePicker" name="android_packages_apps_ThemePicker" remote="havoc" />
   <project path="packages/apps/TouchGestures" name="android_packages_apps_TouchGestures" remote="havoc" />
