@@ -26,7 +26,6 @@
   <remove-project name="device/google/bonito-kernel" />
   <remove-project name="device/google/bonito-sepolicy" />
   <remove-project name="device/google/bramble" />
-  <remove-project name="device/google/bramble-kernel" />
   <remove-project name="device/google/bramble-sepolicy" />
   <remove-project name="device/google/contexthub" />
   <remove-project name="device/google/coral" />
@@ -40,9 +39,9 @@
   <remove-project name="device/google/cuttlefish_vmm" />
   <remove-project name="device/google/fuchsia" />
   <remove-project name="device/google/redbull" />
+  <remove-project name="device/google/redbull-kernel" />
   <remove-project name="device/google/redbull-sepolicy" />
   <remove-project name="device/google/redfin" />
-  <remove-project name="device/google/redfin-kernel" />
   <remove-project name="device/google/redfin-sepolicy" />
   <remove-project name="device/google/sunfish" />
   <remove-project name="device/google/sunfish-kernel" />
