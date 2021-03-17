@@ -73,6 +73,7 @@
 
   <!-- Hardware -->
   <project path="hardware/broadcom/libbt" name="android_hardware_broadcom_libbt" remote="havoc" />
+  <project path="hardware/google/pixel-sepolicy" name="android_hardware_google_pixel-sepolicy" remote="havoc" />
   <project path="hardware/havoc/interfaces" name="android_hardware_havoc_interfaces" remote="havoc" />
   <project path="hardware/interfaces" name="android_hardware_interfaces" remote="havoc" />
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="havoc" />
