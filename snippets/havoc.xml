@@ -154,6 +154,7 @@
   <project path="vendor/gapps" name="android_vendor_gapps" remote="havoc-gitlab" />
   <project path="vendor/havoc" name="android_vendor_havoc" remote="havoc" />
   <project path="vendor/qcom/opensource/interfaces" name="android_vendor_qcom_opensource_interfaces" remote="havoc" />
+  <project path="vendor/qcom/opensource/power" name="android_vendor_qcom_opensource_power" remote="havoc" />
   <project path="vendor/support" name="android_vendor_support" remote="havoc" />
 
 </manifest>
