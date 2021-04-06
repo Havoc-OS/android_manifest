@@ -21,6 +21,7 @@
   <project path="bionic" name="android_bionic" remote="havoc" />
   <project path="bootable/recovery" name="android_bootable_recovery" remote="havoc" />
   <project path="development" name="android_development" remote="havoc" />
+  <project path="libcore" name="android_libcore" remote="havoc" />
   <project path="manifest" name="android_manifest" remote="havoc" />
 
   <!-- Build -->

@@ -68,6 +68,7 @@
   <remove-project name="platform/bionic" />
   <remove-project name="platform/bootable/recovery" />
   <remove-project name="platform/development" />
+  <remove-project name="platform/libcore" />
 
   <!-- Build -->
   <remove-project name="platform/build" />
