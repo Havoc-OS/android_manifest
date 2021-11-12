@@ -59,6 +59,7 @@
   <project path="external/openssh" name="android_external_openssh" remote="havoc" />
   <project path="external/perfetto" name="android_external_perfetto" remote="havoc" />
   <project path="external/pulse" name="android_external_pulse" remote="havoc" />
+  <project path="external/robolectric-shadows" name="android_external_robolectric-shadows" remote="havoc" />
   <project path="external/tinyalsa" name="android_external_tinyalsa" remote="havoc" />
   <project path="external/tinycompress" name="android_external_tinycompress" remote="havoc" />
   <project path="external/toybox" name="android_external_toybox" remote="havoc" />
