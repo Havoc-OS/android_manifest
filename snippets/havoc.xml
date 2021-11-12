@@ -122,6 +122,7 @@
   <project path="packages/modules/DnsResolver" name="android_packages_modules_DnsResolver" remote="havoc" />
   <project path="packages/providers/ContactsProvider" name="android_packages_providers_ContactsProvider" remote="havoc" />
   <project path="packages/providers/DownloadProvider" name="android_packages_providers_DownloadProvider" remote="havoc" />
+  <project path="packages/providers/MediaProvider" name="android_packages_providers_MediaProvider" remote="havoc" />
   <project path="packages/providers/TelephonyProvider" name="android_packages_providers_TelephonyProvider" remote="havoc" />
   <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" remote="havoc" />
   <project path="packages/services/Telephony" name="android_packages_services_Telephony" remote="havoc" />
