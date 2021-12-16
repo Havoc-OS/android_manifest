@@ -154,6 +154,7 @@
   <project path="system/security" name="android_system_security" remote="havoc" />
   <project path="system/sepolicy" name="android_system_sepolicy" remote="havoc" />
   <project path="system/timezone" name="android_system_timezone" remote="havoc" />
+  <project path="system/tools/aidl" name="android_system_tools_aidl" remote="havoc" />
   <project path="system/tools/mkbootimg" name="android_system_tools_mkbootimg" remote="havoc" />
   <project path="system/update_engine" name="android_system_update_engine" remote="havoc" />
   <project path="system/vold" name="android_system_vold" remote="havoc" />
