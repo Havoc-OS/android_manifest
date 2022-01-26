@@ -56,6 +56,7 @@
   <project path="external/icu" name="android_external_icu" remote="havoc" />
   <project path="external/libavc" name="android_external_libavc" remote="havoc" />
   <project path="external/libcxx" name="android_external_libcxx" remote="havoc" />
+  <project path="external/libexif" name="android_external_libexif" remote="havoc" />
   <project path="external/mksh" name="android_external_mksh" remote="havoc" />
   <project path="external/openssh" name="android_external_openssh" remote="havoc" />
   <project path="external/perfetto" name="android_external_perfetto" remote="havoc" />
