@@ -54,6 +54,7 @@
   <project path="external/gptfdisk" name="android_external_gptfdisk" remote="havoc" />
   <project path="external/guice" name="android_external_guice" remote="havoc" />
   <project path="external/icu" name="android_external_icu" remote="havoc" />
+  <project path="external/libavc" name="android_external_libavc" remote="havoc" />
   <project path="external/libcxx" name="android_external_libcxx" remote="havoc" />
   <project path="external/mksh" name="android_external_mksh" remote="havoc" />
   <project path="external/openssh" name="android_external_openssh" remote="havoc" />
