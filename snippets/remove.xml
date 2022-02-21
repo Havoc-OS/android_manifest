@@ -167,6 +167,7 @@
   <!-- System -->
   <remove-project name="platform/system/bt" />
   <remove-project name="platform/system/core" />
+  <remove-project name="platform/system/extras" />
   <remove-project name="platform/system/hardware/interfaces" />
   <remove-project name="platform/system/incremental_delivery" />
   <remove-project name="platform/system/libufdt" />
