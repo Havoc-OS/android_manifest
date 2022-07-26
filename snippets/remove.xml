@@ -76,6 +76,7 @@
   <remove-project name="platform/build/soong" />
 
   <!-- External -->
+  <remove-project name="platform/external/aac" />
   <remove-project name="platform/external/boringssl" />
   <remove-project name="platform/external/chromium-webview" />
   <remove-project name="platform/external/cldr" />
