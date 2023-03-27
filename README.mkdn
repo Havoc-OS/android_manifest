@@ -1,36 +1,70 @@
-LineageOS
+Havoc-OS
 ===========
 
-Getting started
+
+Getting Started
+---------------
+To get started with the Havoc-OS sources, you'll need to get
+familiar with [Git and Repo](https://source.android.com/setup/develop).
+
+
+Create the Directories
+----------------------
+
+You will need to set up some directories in your build environment.
+
+To create them run:
+
+```bash
+   mkdir -p ~/bin
+   mkdir -p ~/havoc
+```
+
+Install the Repository
+----------------------
+
+Enter the following to download the "repo" binary and make it executable:
+
+curl http://commondatastorage.googleapis.com/git-repo-downloads/repo > ~/bin/repo && chmod a+x ~/bin/repo
+
+You may need to reboot for these changes to take effect.
+Now enter the following to initialize the repository:
+
+```bash
+   cd ~/havoc
+```
+
+
+To initialize your local repository, use this command:
+------------------------------------------------------
+
+```bash
+   repo init -u https://github.com/Havoc-OS/android_manifest.git -b thirteen --git-lfs
+```
+  
+To Sync the source:
+----------------
+
+```bash
+  repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
+```
+
+
+Building the System
 ---------------
 
-To get started with Android/LineageOS, you'll need to get familiar with [Source Control Tools](https://source.android.com/setup/develop).
+Please note that if you are building on Mac OS X, you are required to install coreutils from MacPorts before you continue.
+Initialize the environment with the envsetup.sh script. Note that replacing "source" with a single dot saves a few characters, and the short form is more commonly used in documentation.
 
-To initialize your local repository using the LineageOS trees, use a command like this:
+```bash
+   . build/envsetup.sh
+    brunch
 ```
-repo init -u https://github.com/LineageOS/android.git -b lineage-20.0 --git-lfs
-```
-Then to sync up:
-```
-repo sync
-```
-Please see the [LineageOS Wiki](https://wiki.lineageos.org/) for building instructions, by device.
+
+Enter the number of the build you want to start and press enter
 
 
-Submitting patches
-------------------
-Patches are always welcome! Please submit your patches via LineageOS Gerrit!
+Applying for Maintainership
+---------------
 
-Simply follow our guide on [how to submit patches](https://wiki.lineageos.org/submitting-patch-howto.html).
-
-To view the status of your and others' patches, visit [LineageOS Gerrit Code Review](https://review.lineageos.org/).
-
-
-Buildbot
---------
-
-All supported devices are built weekly and periodically as changes are committed to ensure the source trees remain buildable.
-
-You can view the current build statuses at [LineageOS Buildkite](https://buildkite.com/lineageos).
-
-Builds produced weekly by the buildbot can be downloaded from [LineageOS downloads](https://download.lineageos.org/).
+If you have successfully built for your device and want to apply for maintainership then drop in a message to SKULSHADY on Telegrams.

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote
+    name="havoc"
+    fetch="https://github.com/Havoc-OS"
+    revision="thirteen" />
+
+  <remote
+    name="havoc-devices"
+    fetch="ssh://git@github.com/Havoc-Devices"
+    revision="thirteen" />
+
+  <remote
+    name="havoc-devices-gitlab"
+    fetch="https://gitlab.com/Havoc-Devices"
+    revision="thirteen" />
+
+  <remote
+    name="havoc-gitlab"
+    fetch="https://gitlab.com/Havoc_OS"
+    revision="thirteen" />
+
+  <project path="android" name="android_manifest" remote="havoc" />
+
+  <project path="art" name="android_art" remote="havoc" />
+
+  <project path="bootable/recovery" name="android_bootable_recovery" remote="havoc" />
+
+  <project path="build/make" name="android_build" remote="havoc" >
+    <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
+    <linkfile src="buildspec.mk.default" dest="build/buildspec.mk.default" />
+    <linkfile src="core" dest="build/core" />
+    <linkfile src="envsetup.sh" dest="build/envsetup.sh" />
+    <linkfile src="target" dest="build/target" />
+    <linkfile src="tools" dest="build/tools" />
+  </project>
+  <project path="build/soong" name="android_build_soong" remote="havoc" >
+    <linkfile src="root.bp" dest="Android.bp" />
+    <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
+  </project>
+
+  <project path="device/lineage/sepolicy" name="android_device_havoc_sepolicy" remote="havoc" />
+
+  <project path="external/colorkt" name="android_external_colorkt" remote="havoc" />
+  <project path="external/selinux" name="android_external_selinux" remote="havoc" />
+  <project path="external/setupcompat" name="android_external_setupcompat" remote="havoc" />
+  <project path="external/themelib" name="android_external_themelib" remote="havoc" />
+
+  <project path="frameworks/av" name="android_frameworks_av" remote="havoc" />
+  <project path="frameworks/base" name="android_frameworks_base" remote="havoc" />
+  <project path="frameworks/libs/net" name="android_frameworks_libs_net" remote="havoc" />
+  <project path="frameworks/libs/systemui" name="android_frameworks_libs_systemui" remote="havoc" />
+  <project path="frameworks/native" name="android_frameworks_native" remote="havoc" />
+
+  <project path="lineage-sdk" name="android_lineage-sdk" remote="havoc" />
+
+  <project path="packages/apps/LineageParts" name="android_packages_apps_LineageParts" remote="havoc" />
+  <project path="packages/apps/ParanoidSense" name="android_packages_apps_ParanoidSense" remote="havoc-gitlab" />
+  <project path="packages/apps/RepainterService" name="android_packages_apps_RepainterService" remote="havoc" />
+  <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="havoc" />
+  <project path="packages/apps/SetupWizard" name="android_packages_apps_SetupWizard" remote="havoc" />
+  <project path="packages/apps/ThemePicker" name="android_packages_apps_ThemePicker" remote="havoc" />
+  <project path="packages/apps/Updater" name="android_packages_apps_Updater" remote="havoc" />
+  <project path="packages/inputmethods/LatinIME" name="android_packages_inputmethods_LatinIME" remote="havoc" />
+  <project path="packages/modules/Connectivity" name="android_packages_modules_Connectivity" remote="havoc" />
+  <project path="packages/modules/Permission" name="android_packages_modules_Permission" remote="havoc" />
+  <project path="packages/modules/Wifi" name="android_packages_modules_Wifi" remote="havoc" />
+  <project path="packages/overlays/ThemeIcons" name="android_packages_overlays_ThemeIcons" remote="havoc" />
+  <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" remote="havoc" />
+
+  <project path="system/core" name="android_system_core" remote="havoc" />
+  <project path="system/sepolicy" name="android_system_sepolicy" remote="havoc" />
+  <project path="system/update_engine" name="android_system_update_engine" remote="havoc" />
+
+  <project path="vendor/google/interfaces" name="android_vendor_google_interfaces" remote="havoc" />
+  <project path="vendor/gms" name="android_vendor_gms" remote="havoc-gitlab" clone-depth="1" />
+  <project path="vendor/lineage" name="android_vendor_havoc" remote="havoc" />
+  <project path="vendor/pixel-framework" name="android_vendor_pixel-framework" remote="havoc" />
+  <project path="vendor/support" name="android_vendor_support" remote="havoc" />
+
+</manifest>
