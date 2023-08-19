@@ -73,7 +73,6 @@
   <project path="system/sepolicy" name="android_system_sepolicy" remote="havoc" />
   <project path="system/update_engine" name="android_system_update_engine" remote="havoc" />
 
-  <project path="vendor/google/interfaces" name="android_vendor_google_interfaces" remote="havoc" />
   <project path="vendor/gms" name="android_vendor_gms" remote="havoc-gitlab" clone-depth="1" />
   <project path="vendor/lineage" name="android_vendor_havoc" remote="havoc" />
   <project path="vendor/pixel-framework" name="android_vendor_pixel-framework" remote="havoc" />
