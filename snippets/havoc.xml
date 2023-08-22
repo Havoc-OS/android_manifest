@@ -53,6 +53,8 @@
   <project path="frameworks/libs/systemui" name="android_frameworks_libs_systemui" remote="havoc" />
   <project path="frameworks/native" name="android_frameworks_native" remote="havoc" />
 
+  <project path="hardware/google/pixel-sepolicy" name="android_hardware_google_pixel-sepolicy" remote="havoc" />
+
   <project path="lineage-sdk" name="android_lineage-sdk" remote="havoc" />
 
   <project path="packages/apps/LineageParts" name="android_packages_apps_LineageParts" remote="havoc" />
